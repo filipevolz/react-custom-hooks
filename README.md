@@ -15,3 +15,4 @@ Esse projeto foi desenvolvido utilizando as seguintes tecnologias:
 - JAVASCRIPT
 - REACT
 - HOOKS
+- VITE
